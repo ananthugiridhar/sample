@@ -1,0 +1,1 @@
+this is a sample text written to study and inderstand git and github
