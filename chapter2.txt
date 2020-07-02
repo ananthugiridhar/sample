@@ -1,1 +1,2 @@
-this is a new chapter for learning the git and github and their commands
+brew added;
+\this is a new chapter for learning the git and github and their commands
